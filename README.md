@@ -49,6 +49,8 @@ In this repository, we include Caffe-compatible files for the model architecture
   [SqueezeNet in the *PyTorch* framework](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py), by Marat Dukhan
 
   [SqueezeNet in the *CoreML* framework](https://github.com/mdering/CoreMLZoo)
+  
+  [SqueezeNet in the *Matlab R2017b* framework (imported from *Keras*)](https://github.com/titsitits/Squeezenet-Matlab-Keras), by Mickaël Tits
 
   [Neural Art using SqueezeNet](https://github.com/pavelgonchar/neural-art-mini), by Pavel Gonchar
 
